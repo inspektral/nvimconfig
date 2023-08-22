@@ -1,0 +1,2 @@
+require("tito")
+print("Hello")
