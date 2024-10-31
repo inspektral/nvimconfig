@@ -2,7 +2,7 @@
 
 - clone into .config/nvim:
 ```
-git clone https://github.com/titoscutari/nvimcofig ~/.config/nvim
+git clone https://github.com/inspektral/nvimcofig ~/.config/nvim
 ```
 - install packer:
 ```
